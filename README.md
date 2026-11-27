@@ -26,7 +26,7 @@
 
 ## 👨‍💻 Sobre mí
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="300" src="./gatito.gif" alt="gatito programando"/>
 
 - 🔭 Actualmente trabajo en **[Streetcdesign](https://streetcdesign.com)**
 - 🌱 Estoy aprendiendo **TypeScript, Docker y Cloud**
